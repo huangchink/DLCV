@@ -1,0 +1,134 @@
+2024-09-24 17:00:16,249 - INFO - Training start!!!
+2024-09-24 17:06:37,934 - INFO - Training start!!!
+2024-09-24 17:15:06,960 - INFO - Training start!!!
+2024-09-24 17:17:46,265 - INFO - Epoch [1/100] - Train Acc: 2.78%, Val Acc: 3.45%, LR: 0.001000
+2024-09-24 17:17:46,269 - INFO - Model best accuracy: 3.45%
+2024-09-24 17:19:42,571 - INFO - Epoch [2/100] - Train Acc: 4.58%, Val Acc: 7.64%, LR: 0.001000
+2024-09-24 17:19:42,576 - INFO - Model best accuracy: 7.64%
+2024-09-24 17:21:36,982 - INFO - Epoch [3/100] - Train Acc: 5.67%, Val Acc: 8.37%, LR: 0.000999
+2024-09-24 17:21:36,988 - INFO - Model best accuracy: 8.37%
+2024-09-24 17:23:33,554 - INFO - Epoch [4/100] - Train Acc: 6.28%, Val Acc: 8.37%, LR: 0.000998
+2024-09-24 17:25:29,543 - INFO - Epoch [5/100] - Train Acc: 6.73%, Val Acc: 6.90%, LR: 0.000996
+2024-09-24 17:27:26,064 - INFO - Epoch [6/100] - Train Acc: 6.07%, Val Acc: 8.37%, LR: 0.000994
+2024-09-24 17:29:21,848 - INFO - Epoch [7/100] - Train Acc: 7.16%, Val Acc: 8.87%, LR: 0.000991
+2024-09-24 17:29:21,853 - INFO - Model best accuracy: 8.87%
+2024-09-24 17:31:18,610 - INFO - Epoch [8/100] - Train Acc: 7.34%, Val Acc: 6.40%, LR: 0.000988
+2024-09-24 17:33:10,000 - INFO - Epoch [9/100] - Train Acc: 8.10%, Val Acc: 8.37%, LR: 0.000984
+2024-09-24 17:35:00,974 - INFO - Epoch [10/100] - Train Acc: 8.30%, Val Acc: 9.85%, LR: 0.000980
+2024-09-24 17:35:00,979 - INFO - Model best accuracy: 9.85%
+2024-09-24 17:36:48,727 - INFO - Epoch [11/100] - Train Acc: 9.09%, Val Acc: 9.36%, LR: 0.000976
+2024-09-24 17:38:39,670 - INFO - Epoch [12/100] - Train Acc: 10.55%, Val Acc: 9.11%, LR: 0.000970
+2024-09-24 17:40:35,351 - INFO - Epoch [13/100] - Train Acc: 10.02%, Val Acc: 12.56%, LR: 0.000965
+2024-09-24 17:40:35,355 - INFO - Model best accuracy: 12.56%
+2024-09-24 17:42:30,878 - INFO - Epoch [14/100] - Train Acc: 10.40%, Val Acc: 11.08%, LR: 0.000959
+2024-09-24 17:44:25,314 - INFO - Epoch [15/100] - Train Acc: 11.54%, Val Acc: 12.32%, LR: 0.000952
+2024-09-24 17:46:19,321 - INFO - Epoch [16/100] - Train Acc: 11.47%, Val Acc: 14.29%, LR: 0.000946
+2024-09-24 17:46:19,326 - INFO - Model best accuracy: 14.29%
+2024-09-24 17:48:15,362 - INFO - Epoch [17/100] - Train Acc: 12.63%, Val Acc: 14.29%, LR: 0.000938
+2024-09-24 17:50:10,449 - INFO - Epoch [18/100] - Train Acc: 12.58%, Val Acc: 15.27%, LR: 0.000930
+2024-09-24 17:50:10,455 - INFO - Model best accuracy: 15.27%
+2024-09-24 17:52:05,717 - INFO - Epoch [19/100] - Train Acc: 14.00%, Val Acc: 15.27%, LR: 0.000922
+2024-09-24 17:53:59,227 - INFO - Epoch [20/100] - Train Acc: 13.69%, Val Acc: 19.70%, LR: 0.000914
+2024-09-24 17:53:59,235 - INFO - Model best accuracy: 19.70%
+2024-09-24 17:55:52,514 - INFO - Epoch [21/100] - Train Acc: 15.44%, Val Acc: 19.70%, LR: 0.000905
+2024-09-24 17:57:47,961 - INFO - Epoch [22/100] - Train Acc: 15.44%, Val Acc: 19.21%, LR: 0.000895
+2024-09-24 17:59:54,982 - INFO - Epoch [23/100] - Train Acc: 16.43%, Val Acc: 16.26%, LR: 0.000885
+2024-09-24 18:02:22,231 - INFO - Epoch [24/100] - Train Acc: 15.64%, Val Acc: 19.46%, LR: 0.000875
+2024-09-24 18:04:21,565 - INFO - Epoch [25/100] - Train Acc: 17.89%, Val Acc: 21.18%, LR: 0.000865
+2024-09-24 18:04:21,570 - INFO - Model best accuracy: 21.18%
+2024-09-24 18:06:13,990 - INFO - Epoch [26/100] - Train Acc: 18.22%, Val Acc: 22.41%, LR: 0.000854
+2024-09-24 18:06:13,993 - INFO - Model best accuracy: 22.41%
+2024-09-24 18:08:07,904 - INFO - Epoch [27/100] - Train Acc: 18.58%, Val Acc: 20.20%, LR: 0.000842
+2024-09-24 18:10:02,772 - INFO - Epoch [28/100] - Train Acc: 20.02%, Val Acc: 22.41%, LR: 0.000831
+2024-09-24 18:11:56,900 - INFO - Epoch [29/100] - Train Acc: 21.72%, Val Acc: 24.63%, LR: 0.000819
+2024-09-24 18:11:56,905 - INFO - Model best accuracy: 24.63%
+2024-09-24 18:13:51,260 - INFO - Epoch [30/100] - Train Acc: 21.44%, Val Acc: 22.66%, LR: 0.000807
+2024-09-24 18:15:44,858 - INFO - Epoch [31/100] - Train Acc: 22.68%, Val Acc: 25.86%, LR: 0.000794
+2024-09-24 18:15:44,863 - INFO - Model best accuracy: 25.86%
+2024-09-24 18:17:35,243 - INFO - Epoch [32/100] - Train Acc: 23.44%, Val Acc: 24.14%, LR: 0.000781
+2024-09-24 18:19:26,643 - INFO - Epoch [33/100] - Train Acc: 25.34%, Val Acc: 25.86%, LR: 0.000768
+2024-09-24 18:21:18,744 - INFO - Epoch [34/100] - Train Acc: 25.18%, Val Acc: 27.09%, LR: 0.000755
+2024-09-24 18:21:18,750 - INFO - Model best accuracy: 27.09%
+2024-09-24 18:23:11,023 - INFO - Epoch [35/100] - Train Acc: 26.09%, Val Acc: 28.33%, LR: 0.000741
+2024-09-24 18:23:11,024 - INFO - Model best accuracy: 28.33%
+2024-09-24 18:25:02,010 - INFO - Epoch [36/100] - Train Acc: 26.22%, Val Acc: 30.30%, LR: 0.000727
+2024-09-24 18:25:02,016 - INFO - Model best accuracy: 30.30%
+2024-09-24 18:26:49,675 - INFO - Epoch [37/100] - Train Acc: 27.69%, Val Acc: 30.79%, LR: 0.000713
+2024-09-24 18:26:49,678 - INFO - Model best accuracy: 30.79%
+2024-09-24 18:28:37,007 - INFO - Epoch [38/100] - Train Acc: 29.31%, Val Acc: 33.00%, LR: 0.000699
+2024-09-24 18:28:37,012 - INFO - Model best accuracy: 33.00%
+2024-09-24 18:30:27,888 - INFO - Epoch [39/100] - Train Acc: 30.25%, Val Acc: 26.60%, LR: 0.000684
+2024-09-24 18:32:18,455 - INFO - Epoch [40/100] - Train Acc: 30.75%, Val Acc: 31.77%, LR: 0.000670
+2024-09-24 18:34:10,349 - INFO - Epoch [41/100] - Train Acc: 30.75%, Val Acc: 30.30%, LR: 0.000655
+2024-09-24 18:35:57,652 - INFO - Epoch [42/100] - Train Acc: 32.50%, Val Acc: 33.00%, LR: 0.000640
+2024-09-24 18:38:40,346 - INFO - Epoch [43/100] - Train Acc: 33.28%, Val Acc: 31.53%, LR: 0.000625
+2024-09-24 18:40:46,072 - INFO - Epoch [44/100] - Train Acc: 33.66%, Val Acc: 36.21%, LR: 0.000609
+2024-09-24 18:40:46,077 - INFO - Model best accuracy: 36.21%
+2024-09-24 18:42:40,365 - INFO - Epoch [45/100] - Train Acc: 35.38%, Val Acc: 36.45%, LR: 0.000594
+2024-09-24 18:42:40,371 - INFO - Model best accuracy: 36.45%
+2024-09-24 18:44:30,990 - INFO - Epoch [46/100] - Train Acc: 35.91%, Val Acc: 35.47%, LR: 0.000579
+2024-09-24 18:46:22,232 - INFO - Epoch [47/100] - Train Acc: 35.86%, Val Acc: 35.22%, LR: 0.000563
+2024-09-24 18:48:11,362 - INFO - Epoch [48/100] - Train Acc: 36.98%, Val Acc: 38.67%, LR: 0.000548
+2024-09-24 18:48:11,368 - INFO - Model best accuracy: 38.67%
+2024-09-24 18:50:04,635 - INFO - Epoch [49/100] - Train Acc: 37.84%, Val Acc: 36.70%, LR: 0.000532
+2024-09-24 18:51:54,389 - INFO - Epoch [50/100] - Train Acc: 38.47%, Val Acc: 32.27%, LR: 0.000516
+2024-09-24 18:53:43,940 - INFO - Epoch [51/100] - Train Acc: 38.29%, Val Acc: 38.42%, LR: 0.000501
+2024-09-24 18:55:34,421 - INFO - Epoch [52/100] - Train Acc: 38.95%, Val Acc: 38.18%, LR: 0.000485
+2024-09-24 18:57:23,860 - INFO - Epoch [53/100] - Train Acc: 39.48%, Val Acc: 38.42%, LR: 0.000469
+2024-09-24 18:59:17,913 - INFO - Epoch [54/100] - Train Acc: 40.37%, Val Acc: 37.68%, LR: 0.000453
+2024-09-24 19:01:11,761 - INFO - Epoch [55/100] - Train Acc: 41.43%, Val Acc: 41.13%, LR: 0.000438
+2024-09-24 19:01:11,766 - INFO - Model best accuracy: 41.13%
+2024-09-24 19:03:03,263 - INFO - Epoch [56/100] - Train Acc: 43.58%, Val Acc: 40.64%, LR: 0.000422
+2024-09-24 19:05:23,334 - INFO - Epoch [57/100] - Train Acc: 45.76%, Val Acc: 41.13%, LR: 0.000407
+2024-09-24 19:07:20,919 - INFO - Epoch [58/100] - Train Acc: 44.67%, Val Acc: 40.64%, LR: 0.000392
+2024-09-24 19:09:09,737 - INFO - Epoch [59/100] - Train Acc: 47.08%, Val Acc: 42.12%, LR: 0.000376
+2024-09-24 19:09:09,737 - INFO - Model best accuracy: 42.12%
+2024-09-24 19:10:42,406 - INFO - Epoch [60/100] - Train Acc: 46.29%, Val Acc: 40.15%, LR: 0.000361
+2024-09-24 19:12:32,581 - INFO - Epoch [61/100] - Train Acc: 47.48%, Val Acc: 43.84%, LR: 0.000346
+2024-09-24 19:12:32,586 - INFO - Model best accuracy: 43.84%
+2024-09-24 19:14:24,648 - INFO - Epoch [62/100] - Train Acc: 48.47%, Val Acc: 44.09%, LR: 0.000331
+2024-09-24 19:14:24,654 - INFO - Model best accuracy: 44.09%
+2024-09-24 19:16:20,724 - INFO - Epoch [63/100] - Train Acc: 49.53%, Val Acc: 47.04%, LR: 0.000317
+2024-09-24 19:16:20,732 - INFO - Model best accuracy: 47.04%
+2024-09-24 19:18:14,188 - INFO - Epoch [64/100] - Train Acc: 50.06%, Val Acc: 46.55%, LR: 0.000302
+2024-09-24 19:20:06,985 - INFO - Epoch [65/100] - Train Acc: 50.75%, Val Acc: 45.07%, LR: 0.000288
+2024-09-24 19:21:58,866 - INFO - Epoch [66/100] - Train Acc: 51.71%, Val Acc: 46.55%, LR: 0.000274
+2024-09-24 19:23:54,677 - INFO - Epoch [67/100] - Train Acc: 53.58%, Val Acc: 43.35%, LR: 0.000260
+2024-09-24 19:25:49,148 - INFO - Epoch [68/100] - Train Acc: 55.68%, Val Acc: 45.07%, LR: 0.000246
+2024-09-24 19:27:41,906 - INFO - Epoch [69/100] - Train Acc: 53.78%, Val Acc: 44.83%, LR: 0.000233
+2024-09-24 19:29:31,554 - INFO - Epoch [70/100] - Train Acc: 55.83%, Val Acc: 45.07%, LR: 0.000220
+2024-09-24 19:32:01,870 - INFO - Epoch [71/100] - Train Acc: 55.96%, Val Acc: 46.55%, LR: 0.000207
+2024-09-24 19:34:06,091 - INFO - Epoch [72/100] - Train Acc: 56.21%, Val Acc: 44.33%, LR: 0.000194
+2024-09-24 19:36:02,345 - INFO - Epoch [73/100] - Train Acc: 57.15%, Val Acc: 48.03%, LR: 0.000182
+2024-09-24 19:36:02,351 - INFO - Model best accuracy: 48.03%
+2024-09-24 19:38:02,553 - INFO - Epoch [74/100] - Train Acc: 57.81%, Val Acc: 48.77%, LR: 0.000170
+2024-09-24 19:38:02,559 - INFO - Model best accuracy: 48.77%
+2024-09-24 19:40:08,932 - INFO - Epoch [75/100] - Train Acc: 59.20%, Val Acc: 45.07%, LR: 0.000159
+2024-09-24 19:42:09,495 - INFO - Epoch [76/100] - Train Acc: 58.44%, Val Acc: 46.31%, LR: 0.000147
+2024-09-24 19:44:04,479 - INFO - Epoch [77/100] - Train Acc: 60.19%, Val Acc: 45.57%, LR: 0.000136
+2024-09-24 19:46:05,034 - INFO - Epoch [78/100] - Train Acc: 61.28%, Val Acc: 47.04%, LR: 0.000126
+2024-09-24 19:48:03,233 - INFO - Epoch [79/100] - Train Acc: 61.23%, Val Acc: 45.07%, LR: 0.000116
+2024-09-24 19:50:07,941 - INFO - Epoch [80/100] - Train Acc: 64.01%, Val Acc: 49.01%, LR: 0.000106
+2024-09-24 19:50:07,946 - INFO - Model best accuracy: 49.01%
+2024-09-24 19:52:09,807 - INFO - Epoch [81/100] - Train Acc: 63.63%, Val Acc: 48.52%, LR: 0.000096
+2024-09-24 19:54:17,301 - INFO - Epoch [82/100] - Train Acc: 63.63%, Val Acc: 48.03%, LR: 0.000087
+2024-09-24 19:56:24,842 - INFO - Epoch [83/100] - Train Acc: 64.84%, Val Acc: 47.04%, LR: 0.000079
+2024-09-24 19:59:00,967 - INFO - Epoch [84/100] - Train Acc: 64.77%, Val Acc: 47.78%, LR: 0.000071
+2024-09-24 20:01:08,923 - INFO - Epoch [85/100] - Train Acc: 65.38%, Val Acc: 47.78%, LR: 0.000063
+2024-09-24 20:03:14,022 - INFO - Epoch [86/100] - Train Acc: 65.70%, Val Acc: 48.52%, LR: 0.000055
+2024-09-24 20:05:19,622 - INFO - Epoch [87/100] - Train Acc: 65.81%, Val Acc: 46.31%, LR: 0.000049
+2024-09-24 20:07:25,995 - INFO - Epoch [88/100] - Train Acc: 66.16%, Val Acc: 50.00%, LR: 0.000042
+2024-09-24 20:07:26,000 - INFO - Model best accuracy: 50.00%
+2024-09-24 20:09:27,597 - INFO - Epoch [89/100] - Train Acc: 66.95%, Val Acc: 49.01%, LR: 0.000036
+2024-09-24 20:11:28,841 - INFO - Epoch [90/100] - Train Acc: 67.00%, Val Acc: 48.77%, LR: 0.000031
+2024-09-24 20:13:29,739 - INFO - Epoch [91/100] - Train Acc: 66.84%, Val Acc: 49.01%, LR: 0.000025
+2024-09-24 20:15:34,105 - INFO - Epoch [92/100] - Train Acc: 68.06%, Val Acc: 50.25%, LR: 0.000021
+2024-09-24 20:15:34,110 - INFO - Model best accuracy: 50.25%
+2024-09-24 20:17:40,762 - INFO - Epoch [93/100] - Train Acc: 68.69%, Val Acc: 49.01%, LR: 0.000017
+2024-09-24 20:19:43,314 - INFO - Epoch [94/100] - Train Acc: 68.29%, Val Acc: 50.00%, LR: 0.000013
+2024-09-24 20:21:43,104 - INFO - Epoch [95/100] - Train Acc: 67.15%, Val Acc: 48.28%, LR: 0.000010
+2024-09-24 20:23:43,792 - INFO - Epoch [96/100] - Train Acc: 68.01%, Val Acc: 49.75%, LR: 0.000007
+2024-09-24 20:26:18,630 - INFO - Epoch [97/100] - Train Acc: 68.46%, Val Acc: 49.26%, LR: 0.000005
+2024-09-24 20:28:20,913 - INFO - Epoch [98/100] - Train Acc: 68.46%, Val Acc: 49.26%, LR: 0.000003
+2024-09-24 20:30:21,046 - INFO - Epoch [99/100] - Train Acc: 67.10%, Val Acc: 47.78%, LR: 0.000002
+2024-09-24 20:32:25,177 - INFO - Epoch [100/100] - Train Acc: 68.62%, Val Acc: 49.26%, LR: 0.000001

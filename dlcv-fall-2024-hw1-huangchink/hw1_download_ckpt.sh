@@ -1,0 +1,2 @@
+gdown --fuzzy 'https://drive.google.com/file/d/1aRdsceXt4gisEOLCCvbnO9ZIX5uegl-J/view?usp=drive_link' -O DeepLabV3Model_resnet101_7519.pth 
+gdown --fuzzy 'https://drive.google.com/file/d/1aXD3C7K3yyaghTh1dxj6oYKESTdyNl6C/view?usp=drive_link' -O C_best_model.pth

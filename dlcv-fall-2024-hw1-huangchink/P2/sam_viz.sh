@@ -1,0 +1,3 @@
+python3 viz_mask.py --sat_path ../hw1_data/p2_data/validation/0013_sat.jpg --mask_path ./sam_test_output/sam_test_pred_0_colored.png  --name 0013_SAM
+python3 viz_mask.py --sat_path ../hw1_data/p2_data/validation/0062_sat.jpg --mask_path ./sam_test_output/sam_test_pred_1_colored.png  --name 0062_SAM
+python3 viz_mask.py --sat_path ../hw1_data/p2_data/validation/0104_sat.jpg --mask_path ./sam_test_output/sam_test_pred_2_colored.png  --name 0104_SAM
